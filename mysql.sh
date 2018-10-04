@@ -1,8 +1,8 @@
 #!/bin/bash
 # read -p "Enter No. of database want to create:" database
 # read -p "Enter No. of tables want to create in databases:" tables
-database=10 
-tables=10
+database=10000 
+tables=10000
 
 for (( x=1 ; x<=$database ; x++ ))
 do 
